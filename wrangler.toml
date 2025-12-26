@@ -1,4 +1,4 @@
-name = "cf-email-wroks"
+name = "test-email"
 main = "src/index.js"
 compatibility_date = "2024-01-01"
 
